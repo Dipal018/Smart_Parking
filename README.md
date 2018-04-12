@@ -37,6 +37,10 @@ Mobile App:
 
 ![Alt text](https://i1.wp.com/dipalsblog.files.wordpress.com/2018/04/cccc.png?ssl=1&w=450 "Optional title")
 
+Model:
+
+![Alt text](https://i0.wp.com/dipalsblog.files.wordpress.com/2018/04/mvimg_20180316_154806.jpg?ssl=1&w=450 "Optional title")
+
 Getting Started: 
 To build and run the server, follow the below given instructions:
 Open terminal and install npm, node.js for your laptop from the link http://blog.teamtreehouse.com/install-node-js-npm-mac.
@@ -73,4 +77,9 @@ To see all the car parked status
 https://afternoon-peak-89776.herokuapp.com/api/records
 
 To add user to the specified parking spot
-https://afternoon-peak-89776.herokuapp.com/api/user?spot=1&name=kaushal
+https://afternoon-peak-89776.herokuapp.com/api/user?spot=1&name=username
+
+Demo:
+https://www.youtube.com/watch?v=tQEayq2EdTY&feature=youtu.be
+
+
